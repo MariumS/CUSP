@@ -45,4 +45,4 @@ Some resources I used:
 #https://stackoverflow.com/questions/34227038/python-pandas-merge-keyerror
 #a lot of stack overflow
 #https://stackoverflow.com/questions/35893176/how-to-assign-a-value-count-output-to-a-dataframe
-#Julian (classmate) (#Sam Overshine, classmate, but that code I didn't end up using, had to do with zip code)
+#Julian (classmate) (#Sam Overshine and Juan, classmates, but that code I didn't end up using in my submission, had to do with zip code)
