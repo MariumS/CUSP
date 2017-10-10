@@ -37,3 +37,12 @@ Precinct may be too large an area. Ideally we should map if more crimes happen n
 Looks like the anti graffiti crowd will have to find other correlations with graffiti. These specific kinds of crimes did not seem to likely occur more in precincts with higher graffiti complaints. The problem with that is that not everyone calls in about graffiti equally and it could be places that have more 311 complaints about it do so because there are fewer other problems to worry about. 
 
 If a correlation is found, could help the NYPD patrol for crimes before they happen, simply based on graffiti call-ins.
+
+Some resources I used:
+#https://github.com/MariumS/PUI2017_mas1300/blob/master/HW3_mas1300/HW3_2_mas1300.ipynb
+#other previous assignments
+#https://chrisalbon.com/
+#https://stackoverflow.com/questions/34227038/python-pandas-merge-keyerror
+#a lot of stack overflow
+#https://stackoverflow.com/questions/35893176/how-to-assign-a-value-count-output-to-a-dataframe
+#Julian (classmate)
